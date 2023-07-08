@@ -1,4 +1,2 @@
-# Meta Capstone Project
-# Frontened-capstone-little-lemon
-
-## Live demo: https://littlelemonrestaurantankitamwebsiteproject.netlify.app/
+# Meta Android Developer Certification Capstone Project
+# Little-lemon-restaurant
